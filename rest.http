@@ -1,0 +1,2 @@
+### Testing API call
+GET http://localhost:8000/
