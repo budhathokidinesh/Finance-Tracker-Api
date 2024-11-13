@@ -1,2 +1,20 @@
 ### Testing API call
+
+### Students
+
+
+### Get students
 GET http://localhost:8000/
+
+
+### Post students
+POST  http://localhost:8000/api/v1/students
+Content-Type: application/json
+
+{
+"name": "Dinesh",
+"email": "b@ab.com",
+"password": "123"
+
+}
+### Transactions
